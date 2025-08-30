@@ -1,6 +1,6 @@
 # Cloud Computing
 
-## Launching an instance on EC2 AWS
+## Launched an instance on EC2 AWS
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/965f448a-091b-4d35-afa6-0ea59e69955f" />
 
 ## Mapped the IP with domain name with Route 53
